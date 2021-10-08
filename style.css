@@ -1,0 +1,15 @@
+.image {
+  object-fit: cover;
+  max-width: 400px;
+  max-height: 400px;
+  height: auto;
+  width: auto;
+}
+
+.file-input {
+  display: none;
+}
+
+.show {
+  display: block;
+}
